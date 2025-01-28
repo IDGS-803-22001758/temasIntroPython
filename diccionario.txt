@@ -1,0 +1,9 @@
+hola:hello
+gato:cat
+perro:dog
+luna:moon
+M�sica:Music
+Sol:Sun
+Diez:Ten
+Queso:Cheese
+vaca:cow
